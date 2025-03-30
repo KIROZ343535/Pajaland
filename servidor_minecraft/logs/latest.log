@@ -183,3 +183,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [30Mar2025 20:59:43.022] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
 [30Mar2025 21:02:34.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
 [30Mar2025 21:02:34.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[30Mar2025 21:30:32.160] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6130d4a0[id=<null>,name=EHC,properties={},legacy=false] (/127.175.124.207:56887) lost connection: Disconnected
+[30Mar2025 21:30:43.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:33927] logged in with entity id 630 at (28.962794989601335, 129.0, -29.098472400842756)
+[30Mar2025 21:30:43.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[30Mar2025 21:30:43.427] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[30Mar2025 21:31:55.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.51.219.180:60387] logged in with entity id 840 at (53.5, 119.0, 4.5)
+[30Mar2025 21:31:55.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
+[30Mar2025 21:31:55.779] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
+[30Mar2025 21:32:22.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 was slain by Zombie
+[30Mar2025 21:32:55.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[30Mar2025 21:32:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[30Mar2025 21:33:22.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Disconnected
+[30Mar2025 21:33:22.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
+[30Mar2025 21:33:31.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[30Mar2025 21:33:37.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.51.219.180:46647] logged in with entity id 1075 at (56.522963756176814, 120.49262401267426, 8.644039253452533)
+[30Mar2025 21:33:37.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
+[30Mar2025 21:33:37.171] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
+[30Mar2025 21:33:51.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: ThiagoXD_0
+[30Mar2025 21:33:51.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ThiagoXD_0 survival<--[HERE]
+[30Mar2025 21:34:20.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set ThiagoXD_0's game mode to Survival Mode
+[30Mar2025 21:34:21.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiagoXD_0> xd
+[30Mar2025 21:34:28.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:43435] logged in with entity id 1146 at (39.446716119697825, 119.0, 12.562051275616957)
+[30Mar2025 21:34:28.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[30Mar2025 21:34:28.389] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[30Mar2025 21:35:11.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 froze to death
+[30Mar2025 21:35:27.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[30Mar2025 21:35:27.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[30Mar2025 21:35:28.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Disconnected
+[30Mar2025 21:35:28.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
+[30Mar2025 21:35:33.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Mar2025 21:35:33.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Mar2025 21:35:33.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Mar2025 21:35:34.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Mar2025 21:35:35.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Mar2025 21:35:35.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Mar2025 21:35:35.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Mar2025 21:35:35.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Mar2025 21:35:35.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Mar2025 21:35:35.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
