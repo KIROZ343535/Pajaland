@@ -177,3 +177,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [30Mar2025 20:48:02.071] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6329 ms
 [30Mar2025 20:48:02.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.821s)! For help, type "help"
 [30Mar2025 20:48:02.112] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Mar2025 20:59:42.713] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[30Mar2025 20:59:42.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:53441] logged in with entity id 185 at (7.0253747090444225, 117.0, -22.57364236369964)
+[30Mar2025 20:59:42.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[30Mar2025 20:59:43.022] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[30Mar2025 21:02:34.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[30Mar2025 21:02:34.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game

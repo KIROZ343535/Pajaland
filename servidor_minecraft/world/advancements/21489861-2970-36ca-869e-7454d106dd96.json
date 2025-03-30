@@ -19,7 +19,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_plains": "2025-03-28 17:22:09 +0000"
+      "minecraft:snowy_plains": "2025-03-28 17:22:09 +0000",
+      "minecraft:grove": "2025-03-30 21:00:00 +0000"
     },
     "done": false
   },
